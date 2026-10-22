@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/varunmoka7/peer-orchestra.git
+git clone https://github.com/moka-apps/peer-orchestra.git
 cd peer-orchestra
 ```
 

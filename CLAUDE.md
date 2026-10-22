@@ -98,7 +98,7 @@ safely; everything about how agents collaborate is prose in markdown.
 
 - `peer-orchestra@0.3.0`, live 2026-08-27T11:43:34Z
 - Publisher account is `peer_orch`, not `varunmoka7`. Deliberate choice.
-  The GitHub repo is under `varunmoka7`, so npm and GitHub ownership differ.
+  The GitHub repo is under `moka-apps`, so npm and GitHub ownership differ.
 - 59 files, 62.7 kB. `docs/internal/` is excluded from the tarball by `files`
   in package.json — verified twice. A shipped file must never cite a path
   under `docs/internal/`, because users never receive it.

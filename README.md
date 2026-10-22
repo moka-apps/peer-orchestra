@@ -1,4 +1,15 @@
-# Peer Orchestra
+<p align="center">
+  <img src="assets/banner.svg" alt="peer-orchestra: Turn Claude Code terminals into a coordinated team." width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/moka-apps/peer-orchestra/releases"><img src="https://img.shields.io/github/v/release/moka-apps/peer-orchestra?style=flat-square&color=111111&label=release" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/moka-apps/peer-orchestra?style=flat-square&color=111111" alt="License"></a>
+  <a href="https://github.com/moka-apps/peer-orchestra/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/moka-apps/peer-orchestra/ci.yml?style=flat-square&color=111111&label=tests" alt="Tests"></a>
+  <a href="https://github.com/moka-apps"><img src="https://img.shields.io/badge/moka--apps-Claude_Code_mod-f778ba?style=flat-square" alt="moka-apps, Claude Code mod"></a>
+</p>
+
+---
 
 **Turn Claude Code terminals into a coordinated engineering team.** Themed personas, a structured dispatch protocol, and hooks that let agents recall past corrections across sessions.
 
